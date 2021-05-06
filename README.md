@@ -1,17 +1,13 @@
 # Data Science Capstone Project
-- Business Understanding
-- Data Mining
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Predictive Modeling with Hyperparameter Tuning
-- Data Visualization
 
+<img width="450" alt="data_science_cycle" src="https://user-images.githubusercontent.com/2211088/117272062-173c0b00-ae5b-11eb-947e-6e8c41855ce8.png">
 
 ## Project description
 ### **Market and customer analysis of e-commerce channels with AI to determine advertising campaigns**
 
 Predicting customer shopping behaviour on the Google Merchandise Store during a specific timeperiod.
+
+![Google_Merchandise_Store_Analysis](https://user-images.githubusercontent.com/2211088/117272421-7437c100-ae5b-11eb-9064-e1bd0889754a.png)
 
 Companies need to take a closer look at their customer base in order to launch targeted marketing campaigns. Machine lerarning helps to effectively analyze characteristics such as access device, demographic information, surfing / consumer behavior & media usage and to derive forecasts.
 
